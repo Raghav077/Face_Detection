@@ -14,12 +14,12 @@ When you run the script, your webcam will open and show a window titled "Face De
 Python 3.x,
 OpenCV (cv2).
 
-## Step-2  Install OpenCV:
+## Step-2 **Install OpenCV:**
 ```sh
  pip install opencv-python
 ```
  
-### Step-3  🚀 Run the Script
+## Step-3 **🚀 Run the Script**
 ```sh
    python face_detection.py
 ```

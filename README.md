@@ -11,10 +11,10 @@ Detects faces and draws rectangles around them in real-time.
 When you run the script, your webcam will open and show a window titled "Face Detection" with rectangles around detected faces. Press 'q' to quit.
 
 ## 🛠 Requirements
-Python 3.x.
+Python 3.x,
 OpenCV (cv2).
 
-### Step-2  Install OpenCV:
+## Step-2  Install OpenCV:
 ```sh
  pip install opencv-python
 ```
